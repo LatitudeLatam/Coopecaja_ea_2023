@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Proceso Captacion"
+    name="GEstión de cuentas de ahorro"
     id="id-fa88aab2bef24e1fa6a83d951a53f5d1">
   <children
       xsi:type="archimate:DiagramModelGroup"
