@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6e07e3485bcd414dae91c81e178b2dc7"
-      targetConnections="id-6c7540f2419043a886742521194006e3 id-16d8ce2ea6054bfdb63e2bc5db8bb8b3">
+      targetConnections="id-16d8ce2ea6054bfdb63e2bc5db8bb8b3">
     <bounds
         x="1284"
         y="360"
@@ -164,27 +164,6 @@
     <archimateElement
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-d72c4d9976fb4f1b8b7ffb59e66a757a.xml#id-d72c4d9976fb4f1b8b7ffb59e66a757a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-bdc8b0e3a9e542b3828fa66284d87aec">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-6c7540f2419043a886742521194006e3"
-        source="id-bdc8b0e3a9e542b3828fa66284d87aec"
-        target="id-6e07e3485bcd414dae91c81e178b2dc7">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-43b891d7983f4437a3b47838ba4974a1.xml#id-43b891d7983f4437a3b47838ba4974a1"/>
-    </sourceConnections>
-    <bounds
-        x="1272"
-        y="48"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Stakeholder"
-        href="Stakeholder_id-2f4640ae514d4f9fbb9ee0748c141d1d.xml#id-2f4640ae514d4f9fbb9ee0748c141d1d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
