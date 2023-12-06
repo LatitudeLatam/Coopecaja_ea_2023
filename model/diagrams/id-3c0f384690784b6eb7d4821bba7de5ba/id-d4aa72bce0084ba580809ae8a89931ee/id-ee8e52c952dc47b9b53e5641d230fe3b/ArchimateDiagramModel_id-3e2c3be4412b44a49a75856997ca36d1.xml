@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="0. Mapa de Subprocesos MAESTROS (punto de deseado)"
+    name="0. Mapa de Subprocesos MAESTROS (punto deseado)"
     id="id-3e2c3be4412b44a49a75856997ca36d1">
   <children
       xsi:type="archimate:DiagramModelGroup"
