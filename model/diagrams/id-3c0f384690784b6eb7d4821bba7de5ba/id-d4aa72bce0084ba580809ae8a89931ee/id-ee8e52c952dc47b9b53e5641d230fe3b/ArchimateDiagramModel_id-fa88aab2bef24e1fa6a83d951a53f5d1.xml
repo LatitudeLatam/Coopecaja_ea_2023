@@ -202,7 +202,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-4f9d3049fc204da2ab8104753fe3b664"
-      name="Por medio de:"
+      name="Métodos:"
       textAlignment="1">
     <bounds
         x="278"
@@ -228,8 +228,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationCollaboration"
-          href="ApplicationCollaboration_id-ce0fb30c239b444dab3a9f21227b8a3c.xml#id-ce0fb30c239b444dab3a9f21227b8a3c"/>
+          xsi:type="archimate:ApplicationInteraction"
+          href="ApplicationInteraction_id-c20eb3c9ba88488c89bc181b3fe765b6.xml#id-c20eb3c9ba88488c89bc181b3fe765b6"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -262,8 +262,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationCollaboration"
-          href="ApplicationCollaboration_id-bb130d6ad10342cfb776138f04de0127.xml#id-bb130d6ad10342cfb776138f04de0127"/>
+          xsi:type="archimate:ApplicationInteraction"
+          href="ApplicationInteraction_id-0ae67ec2181243bb813c8d92b10be2b0.xml#id-0ae67ec2181243bb813c8d92b10be2b0"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -284,8 +284,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationCollaboration"
-          href="ApplicationCollaboration_id-000c17fb7a3a48d998b266718f6144c5.xml#id-000c17fb7a3a48d998b266718f6144c5"/>
+          xsi:type="archimate:ApplicationInteraction"
+          href="ApplicationInteraction_id-fee3ebfd5522423dbce60b8570dc3625.xml#id-fee3ebfd5522423dbce60b8570dc3625"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
