@@ -160,6 +160,18 @@
         y="1164"
         width="1021"
         height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f796252114d140db8a5f38d398784a95">
+      <bounds
+          x="111"
+          y="62"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Device"
+          href="Device_id-dcac5e17c243435db5b93850575afc51.xml#id-dcac5e17c243435db5b93850575afc51"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
