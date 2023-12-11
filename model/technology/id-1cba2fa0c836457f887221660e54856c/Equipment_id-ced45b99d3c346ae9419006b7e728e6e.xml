@@ -1,4 +1,11 @@
 <archimate:Equipment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Server Hermes"
-    id="id-ced45b99d3c346ae9419006b7e728e6e"/>
+    id="id-ced45b99d3c346ae9419006b7e728e6e">
+  <properties
+      key="Sistema Operativo"
+      value="Windows Server 2016"/>
+  <properties
+      key="Web Services"
+      value="IIS 10"/>
+</archimate:Equipment>
