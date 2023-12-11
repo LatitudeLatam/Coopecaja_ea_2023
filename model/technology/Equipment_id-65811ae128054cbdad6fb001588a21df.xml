@@ -1,4 +1,6 @@
 <archimate:Equipment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cluster NLB"
-    id="id-65811ae128054cbdad6fb001588a21df"/>
+    id="id-65811ae128054cbdad6fb001588a21df">
+  <properties/>
+</archimate:Equipment>
