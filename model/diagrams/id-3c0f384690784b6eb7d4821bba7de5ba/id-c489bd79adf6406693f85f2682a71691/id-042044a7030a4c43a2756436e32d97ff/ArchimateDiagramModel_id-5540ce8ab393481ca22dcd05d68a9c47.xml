@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Temporal"
+    name="Tarjeta de Debito"
     id="id-5540ce8ab393481ca22dcd05d68a9c47">
   <children
       xsi:type="archimate:DiagramModelGroup"
