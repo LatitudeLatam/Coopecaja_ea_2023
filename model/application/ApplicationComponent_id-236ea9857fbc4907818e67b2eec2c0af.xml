@@ -1,0 +1,4 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OTP (siempre se utilizará cuando se envíe una transferencia a un 3ro que no esté registrado como favorito seguro)"
+    id="id-236ea9857fbc4907818e67b2eec2c0af"/>
