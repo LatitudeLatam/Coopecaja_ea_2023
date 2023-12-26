@@ -437,20 +437,20 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-2ada825cf28746f1be69d3c6ec06ad6e"
-        name="Aplicaciones - VISA Procesamiento de Tarjeta de Debito "
+        name="Aplicaciones - VISA Procesamiento de Tarjeta de Crédito "
         targetConnections="id-ee77befd29db401d83fc1faee4cac2bb"
         textAlignment="1">
       <bounds
-          x="36"
+          x="12"
           y="72"
-          width="277"
+          width="325"
           height="121"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-a54a51a5434f48b180eecc621a081d5e"
           targetConnections="id-d9eaf385c74b412ea554dfe11c25ad4a">
         <bounds
-            x="144"
+            x="168"
             y="48"
             width="120"
             height="55"/>
@@ -471,7 +471,7 @@
               href="AssociationRelationship_id-da76b47d9cf54dff9ffaa595188535bd.xml#id-da76b47d9cf54dff9ffaa595188535bd"/>
         </sourceConnections>
         <bounds
-            x="12"
+            x="36"
             y="48"
             width="120"
             height="55"/>
@@ -483,7 +483,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-c4a5e237b4334f6580ad496eb886d94e"
-        name="Aplicaciones - Administración de Tarjeta de Débito"
+        name="Aplicaciones - Administración de Tarjeta de Crédito"
         targetConnections="id-446e97238cbf4031ad7bb3976d0b1469"
         textAlignment="1">
       <sourceConnections
