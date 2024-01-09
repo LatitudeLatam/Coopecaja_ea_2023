@@ -1,4 +1,7 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Esquema"
-    id="id-46159a36797e4fa987e4bf48440e9de5"/>
+    name="INVERSIONES.IN_CINVERSION_HIS"
+    id="id-46159a36797e4fa987e4bf48440e9de5"
+    documentation="TABLA HISTORICA DE LOS AHORROS (SALDOS Y ESTADOS DEL AHORRO AL CORTE DEL MES)&#xD;&#xA;GUARDA HISTORICO MENSUAL">
+  <properties/>
+</archimate:DataObject>
