@@ -395,7 +395,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-287529e3b41742cf82e88b87621baa9a">
       <bounds
-          x="336"
+          x="312"
           y="132"
           width="120"
           height="55"/>
@@ -419,7 +419,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-629b5faa64524c61ade51f02be78124d">
       <bounds
-          x="696"
+          x="744"
           y="132"
           width="120"
           height="55"/>
@@ -491,7 +491,7 @@
       <bounds
           x="312"
           y="48"
-          width="120"
+          width="181"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Artifact"
