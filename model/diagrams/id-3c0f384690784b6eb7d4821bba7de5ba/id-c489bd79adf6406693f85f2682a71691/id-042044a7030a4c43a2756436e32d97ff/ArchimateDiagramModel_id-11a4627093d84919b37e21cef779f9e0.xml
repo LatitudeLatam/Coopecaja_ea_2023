@@ -340,6 +340,15 @@
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-6e2ab6b82634479cac5d09d26f788b15.xml#id-6e2ab6b82634479cac5d09d26f788b15"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-b5692baaf0444eba979c5e8337cd3960"
+          source="id-6616900864ac4a92a76b3684f66d190f"
+          target="id-783b8eb87b39421bb09669bcfc10c506">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-db19d52e45dd45b6bbe208bae4afc16e.xml#id-db19d52e45dd45b6bbe208bae4afc16e"/>
+      </sourceConnections>
       <bounds
           x="24"
           y="78"
@@ -477,7 +486,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-559d1081287940538328323222a66153"
-          targetConnections="id-229e45aa757148399316000a1d0b467a id-1d667fbadb174686ae6aef1f5b9dd58c">
+          targetConnections="id-229e45aa757148399316000a1d0b467a">
         <bounds
             x="12"
             y="24"
@@ -584,7 +593,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-783b8eb87b39421bb09669bcfc10c506">
+        id="id-783b8eb87b39421bb09669bcfc10c506"
+        targetConnections="id-b5692baaf0444eba979c5e8337cd3960 id-6d4e63d473c448b5bc2d6db27bb4af7b">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-15ab8360cd414ce7a8a2995ce345721e"
@@ -780,12 +790,12 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-1d667fbadb174686ae6aef1f5b9dd58c"
+          id="id-6d4e63d473c448b5bc2d6db27bb4af7b"
           source="id-70c7a30b14f34de5a15fe193d6921d12"
-          target="id-559d1081287940538328323222a66153">
+          target="id-783b8eb87b39421bb09669bcfc10c506">
         <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-64850662b68742e7a1cd2ad221dff0bf.xml#id-64850662b68742e7a1cd2ad221dff0bf"/>
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-344406e2114f43fe83b80195c494d49d.xml#id-344406e2114f43fe83b80195c494d49d"/>
       </sourceConnections>
       <bounds
           x="108"
