@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Pago de Tarjetas de Crédito - ODB"
+    name="Pago de Tarjetas de Crédito - ODB &amp; Cajas"
     id="id-11a4627093d84919b37e21cef779f9e0">
   <children
       xsi:type="archimate:DiagramModelGroup"
