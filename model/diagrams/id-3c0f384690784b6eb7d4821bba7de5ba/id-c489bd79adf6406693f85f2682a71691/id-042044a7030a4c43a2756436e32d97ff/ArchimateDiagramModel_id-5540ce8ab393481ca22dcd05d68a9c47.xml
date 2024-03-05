@@ -9,9 +9,9 @@
       name="Negocio (Segmento Adquiriente)"
       textAlignment="1">
     <bounds
-        x="888"
-        y="228"
-        width="409"
+        x="480"
+        y="168"
+        width="325"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -69,8 +69,8 @@
         source="id-7344230bf11f402eae2ab545778ef4f0"
         target="id-190f627900644f10b50cba537a9e6b5f"/>
     <bounds
-        x="480"
-        y="1056"
+        x="72"
+        y="972"
         width="1069"
         height="205"/>
     <children
@@ -177,8 +177,8 @@
         source="id-190f627900644f10b50cba537a9e6b5f"
         target="id-bc54ba0e374848819529532080a7591d"/>
     <bounds
-        x="480"
-        y="1296"
+        x="72"
+        y="1236"
         width="1069"
         height="265"/>
     <children
@@ -358,9 +358,9 @@
         source="id-1cbe10846d5245c180cad143f159edc4"
         target="id-7ffa4e39ff8942d29230f898ec9337d1"/>
     <bounds
-        x="888"
-        y="384"
-        width="409"
+        x="480"
+        y="324"
+        width="325"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -411,8 +411,8 @@
           href="TriggeringRelationship_id-a7643d690c3f420ab906ec0085b9929f.xml#id-a7643d690c3f420ab906ec0085b9929f"/>
     </sourceConnections>
     <bounds
-        x="1016"
-        y="120"
+        x="576"
+        y="60"
         width="120"
         height="55"/>
     <archimateElement
@@ -430,10 +430,10 @@
         source="id-7ffa4e39ff8942d29230f898ec9337d1"
         target="id-7344230bf11f402eae2ab545778ef4f0"/>
     <bounds
-        x="480"
-        y="588"
+        x="72"
+        y="528"
         width="1069"
-        height="433"/>
+        height="385"/>
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-82ca77b9905b4537accef477a83828ac"
@@ -498,7 +498,7 @@
           x="348"
           y="72"
           width="373"
-          height="241"/>
+          height="205"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-fd893836c9814b30a15aafa654093dc8"
@@ -589,7 +589,7 @@
           target="id-b567e6cf549e4997ad6f4f7ddc5d9ee9"/>
       <bounds
           x="336"
-          y="360"
+          y="312"
           width="120"
           height="55"/>
       <archimateElement
@@ -608,8 +608,8 @@
         source="id-bc54ba0e374848819529532080a7591d"
         target="id-6e287cb667514a48be8ed3a05bf159e9"/>
     <bounds
-        x="480"
-        y="1584"
+        x="72"
+        y="1524"
         width="517"
         height="211"/>
     <children
@@ -676,8 +676,8 @@
       targetConnections="id-c67c6f2c5b9f4ef98c117a7cf80b0eeb"
       textAlignment="1">
     <bounds
-        x="1032"
-        y="1584"
+        x="624"
+        y="1524"
         width="517"
         height="211"/>
     <children
