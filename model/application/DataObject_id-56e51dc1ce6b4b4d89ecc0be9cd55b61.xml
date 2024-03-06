@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Base de Datos CORE"
+    id="id-56e51dc1ce6b4b4d89ecc0be9cd55b61">
+  <properties
+      key="Motor de Base de Datos"
+      value="Oracle 11 G"/>
+</archimate:DataObject>
