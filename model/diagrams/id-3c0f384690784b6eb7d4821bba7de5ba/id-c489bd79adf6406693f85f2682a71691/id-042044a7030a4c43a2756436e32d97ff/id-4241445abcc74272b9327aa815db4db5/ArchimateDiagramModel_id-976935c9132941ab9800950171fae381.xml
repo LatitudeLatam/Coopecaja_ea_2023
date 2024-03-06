@@ -462,7 +462,6 @@
         xsi:type="archimate:DiagramModelGroup"
         id="id-bd22e85300724529aa17e36b376ee48e"
         name="Aplicaciones - Administración de Tarjeta de Crédito"
-        targetConnections="id-6c285c3ca8e447c386f0e2bb8d820470"
         textAlignment="1">
       <sourceConnections
           id="id-14150af56bc242e9922ad78c2151ab0e"
@@ -566,22 +565,6 @@
             xsi:type="archimate:Device"
             href="Device_id-dcac5e17c243435db5b93850575afc51.xml#id-dcac5e17c243435db5b93850575afc51"/>
       </children>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-4a022d5c6cb045d0bc64fd1ff7171025">
-      <sourceConnections
-          id="id-6c285c3ca8e447c386f0e2bb8d820470"
-          source="id-4a022d5c6cb045d0bc64fd1ff7171025"
-          target="id-bd22e85300724529aa17e36b376ee48e"/>
-      <bounds
-          x="252"
-          y="384"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-0f1e7d815b364d048fe6ffa848b1d43a.xml#id-0f1e7d815b364d048fe6ffa848b1d43a"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
