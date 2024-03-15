@@ -1,4 +1,30 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Modelo Conceptual"
-    id="id-fea559eefcd14a82932358d1940d5ab7"/>
+    id="id-fea559eefcd14a82932358d1940d5ab7">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-b6423ef756f746089dd45f44587b6387"
+      name="AppContenedora. FrontEnd"
+      textAlignment="1"
+      fillColor="#f1f1f1">
+    <bounds
+        x="48"
+        y="84"
+        width="1273"
+        height="481"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-92aad2f8b59245ab8c1a7c3bbf1c6f27"
+      name="AppContenedora.BackEnd"
+      textAlignment="1"
+      fillColor="#f1f1f1">
+    <bounds
+        x="48"
+        y="600"
+        width="1273"
+        height="481"/>
+  </children>
+</archimate:ArchimateDiagramModel>
