@@ -1228,9 +1228,9 @@
           href="RealizationRelationship_id-7872074af0ff41d9ace7b1ca5987c236.xml#id-7872074af0ff41d9ace7b1ca5987c236"/>
     </sourceConnections>
     <bounds
-        x="432"
+        x="420"
         y="1310"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
