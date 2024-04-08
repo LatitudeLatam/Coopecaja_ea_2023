@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vista Sistemas"
+    name="Sistemas AS IS - Modelo Conceptual"
     id="id-157989c1512a4bbb905443e194a4255f">
   <children
       xsi:type="archimate:DiagramModelGroup"
