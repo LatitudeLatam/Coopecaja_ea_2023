@@ -404,8 +404,8 @@
       name="Datos"
       textAlignment="1">
     <bounds
-        x="-324"
-        y="828"
+        x="48"
+        y="840"
         width="1021"
         height="140"/>
     <children
