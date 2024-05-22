@@ -346,14 +346,24 @@
           source="id-e062ee2eaf8740f1a28d807cbef70c8b"
           target="id-adb4ae6b3f0f496f9bb0f43f1a30712c">
         <bendpoints
-            startX="1158"
-            startY="-39"
-            endX="150"
-            endY="-759"/>
+            startX="1122"
+            startY="-27"
+            endX="114"
+            endY="-747"/>
         <bendpoints
-            startX="1158"
+            startX="1122"
+            startY="333"
+            endX="114"
+            endY="-387"/>
+        <bendpoints
+            startX="1122"
+            startY="525"
+            endX="114"
+            endY="-195"/>
+        <bendpoints
+            startX="1122"
             startY="717"
-            endX="150"
+            endX="114"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
@@ -387,7 +397,7 @@
         targetConnections="id-b8f3f834bd774bd68f117e6e24910a49">
       <bounds
           x="312"
-          y="84"
+          y="96"
           width="120"
           height="55"/>
       <archimateElement
@@ -400,7 +410,7 @@
         targetConnections="id-2ac0876429f5419e88282f2361516854">
       <bounds
           x="444"
-          y="84"
+          y="96"
           width="120"
           height="55"/>
       <archimateElement
