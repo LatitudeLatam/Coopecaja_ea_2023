@@ -9,9 +9,9 @@
       name="Medio"
       textAlignment="1">
     <bounds
-        x="12"
+        x="24"
         y="120"
-        width="673"
+        width="661"
         height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -44,7 +44,7 @@
             href="CompositionRelationship_id-70f08342e1f54b39abffab3ff67a62bd.xml#id-70f08342e1f54b39abffab3ff67a62bd"/>
       </sourceConnections>
       <bounds
-          x="60"
+          x="48"
           y="36"
           width="337"
           height="133"/>
