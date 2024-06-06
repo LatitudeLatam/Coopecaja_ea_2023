@@ -9,8 +9,7 @@
       name="Datos"
       textAlignment="1">
     <bounds
-        x="16"
-        y="828"
+        y="768"
         width="1081"
         height="313"/>
     <children
@@ -717,8 +716,8 @@
       name="Interoperabilidad"
       textAlignment="1">
     <bounds
-        x="16"
-        y="624"
+        x="12"
+        y="600"
         width="1405"
         height="140"/>
     <children
@@ -771,9 +770,9 @@
               href="ServingRelationship_id-e524de04f3e84fad9feb2ae912022f18.xml#id-e524de04f3e84fad9feb2ae912022f18"/>
         </sourceConnections>
         <bounds
-            x="168"
+            x="132"
             y="12"
-            width="120"
+            width="121"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Facility"
@@ -789,14 +788,22 @@
             source="id-c8edff72b8134890801fa82250cc1e81"
             target="id-871cd3f18fdc481c92e141a456845c24">
           <bendpoints
-              startY="93"
-              endX="180"
-              endY="-87"/>
+              startY="81"
+              endX="192"
+              endY="-63"/>
           <bendpoints
-              startX="-168"
+              startX="-96"
+              startY="81"
+              endX="96"
+              endY="-63"/>
+          <bendpoints
+              startX="-192"
+              startY="81"
+              endY="-63"/>
+          <bendpoints
+              startX="-192"
               startY="93"
-              endX="12"
-              endY="-87"/>
+              endY="-51"/>
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_id-e4fd840ec58841028a9f9f46f6983d34.xml#id-e4fd840ec58841028a9f9f46f6983d34"/>
