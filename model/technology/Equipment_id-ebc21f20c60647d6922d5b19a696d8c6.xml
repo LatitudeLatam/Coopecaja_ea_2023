@@ -1,4 +1,5 @@
 <archimate:Equipment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OTP"
-    id="id-ebc21f20c60647d6922d5b19a696d8c6"/>
+    id="id-ebc21f20c60647d6922d5b19a696d8c6"
+    documentation="TBI TwoFactorAuth"/>

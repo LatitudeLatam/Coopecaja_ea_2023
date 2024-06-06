@@ -73,11 +73,6 @@
               startY="288"
               endX="-288"
               endY="-3"/>
-          <bendpoints
-              startX="276"
-              startY="288"
-              endX="-168"
-              endY="-3"/>
           <archimateRelationship
               xsi:type="archimate:AggregationRelationship"
               href="AggregationRelationship_id-85854614d2ad4c2a98e8c17310515904.xml#id-85854614d2ad4c2a98e8c17310515904"/>
@@ -264,10 +259,17 @@
             endX="12"
             endY="-267"/>
         <bendpoints
-            startX="228"
+            startX="216"
+            startY="93"
+            endY="-267"/>
+        <bendpoints
+            startX="216"
             startY="153"
-            endX="12"
             endY="-207"/>
+        <bendpoints
+            startX="216"
+            startY="249"
+            endY="-111"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-c8834e3f67974be6b30c85a7107e8bc7.xml#id-c8834e3f67974be6b30c85a7107e8bc7"/>
@@ -428,7 +430,7 @@
             href="FlowRelationship_id-0d4c3219ed7844d9a1c8574e28ca100f.xml#id-0d4c3219ed7844d9a1c8574e28ca100f"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="24"
           y="72"
           width="120"
           height="55"/>
@@ -505,7 +507,7 @@
         x="924"
         y="840"
         width="410"
-        height="145"/>
+        height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-26175e1086ba4f24919f1f1ad0176d8f"
