@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AppContenedora - Vista General - TO BE v2"
+    name="AppContenedora - Vista General - TO BE VF"
     id="id-7cef385747e9448ebde223b50854bed3">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -433,7 +433,7 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-8c2f9c9f1ce44a8199032bbaa0746ccf"
+          id="id-064054cc6a524ff38296382bad9177ef"
           source="id-4a385e3b010a4f37a71added2718b0f7"
           target="id-557fd7bfc8624450814d8f22f8a2e430">
         <archimateRelationship
@@ -580,7 +580,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-557fd7bfc8624450814d8f22f8a2e430"
-        targetConnections="id-8c2f9c9f1ce44a8199032bbaa0746ccf">
+        targetConnections="id-064054cc6a524ff38296382bad9177ef">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c39ce223005c42c1a0cab3fc740620ea"
