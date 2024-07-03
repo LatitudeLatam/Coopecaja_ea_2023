@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Redis"
+    id="id-7985fc76274445d3a794892529d11784"
+    documentation="Contiene:&#xD;&#xA;Sesiones, conversaciones, información del contacto, código de funciones Lambda, estadísticas, configuración a canales."/>

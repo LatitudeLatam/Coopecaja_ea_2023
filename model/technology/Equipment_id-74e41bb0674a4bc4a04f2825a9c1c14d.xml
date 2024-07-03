@@ -1,0 +1,17 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-SVW-FISH"
+    id="id-74e41bb0674a4bc4a04f2825a9c1c14d">
+  <properties
+      key="IP"
+      value="172.28.39.31"/>
+  <properties
+      key="Sistema Operativo"
+      value="Windows Server 2022"/>
+  <properties
+      key="Web Services"
+      value="IIS v.10"/>
+  <properties
+      key="ID"
+      value=". NET Framework 4.8"/>
+</archimate:Equipment>

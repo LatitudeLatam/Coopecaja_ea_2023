@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utilitarios menores"
+    id="id-d11eec87d649418289b7b19b91524619"
+    documentation="Validar Formato de cédula&#xD;&#xA;Diferencia (años)&#xD;&#xA;Normalizar OTP&#xD;&#xA;Enviar correo de solicitud de llamada. Utiliza una librería: &quot;Node mailer&quot;"/>
