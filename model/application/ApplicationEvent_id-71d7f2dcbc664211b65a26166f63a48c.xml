@@ -1,4 +1,4 @@
 <archimate:ApplicationEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Usuario modifica condiciones o confirma aceptación de términos o acepta traslado a otros medios de atención"
+    name="Usuario modifica condiciones o confirma aceptación de términos. Si declina, el Sistema traslada la información a otros medios de atención (no acepta, son rechazadas o denegadas)"
     id="id-71d7f2dcbc664211b65a26166f63a48c"/>
