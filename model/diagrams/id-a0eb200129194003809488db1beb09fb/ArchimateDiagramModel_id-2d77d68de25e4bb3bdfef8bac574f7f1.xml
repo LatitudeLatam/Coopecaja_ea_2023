@@ -952,9 +952,9 @@
                 href="SpecializationRelationship_id-1c02c3cde0a14084923983c4cf2ddc67.xml#id-1c02c3cde0a14084923983c4cf2ddc67"/>
           </sourceConnections>
           <bounds
-              x="187"
+              x="192"
               y="318"
-              width="138"
+              width="133"
               height="55"/>
           <archimateElement
               xsi:type="archimate:DataObject"

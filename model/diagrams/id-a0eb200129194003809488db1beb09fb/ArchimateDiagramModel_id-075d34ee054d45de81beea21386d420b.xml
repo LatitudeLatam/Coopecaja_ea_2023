@@ -71,7 +71,7 @@
           x="24"
           y="48"
           width="829"
-          height="1297"/>
+          height="1285"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-518fa79027d64b3b8b0bc3660e8a8bad"
@@ -98,7 +98,7 @@
             x="24"
             y="48"
             width="577"
-            height="1237"/>
+            height="1213"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-415a8163cc844d369bd96ae649a100bb"
@@ -252,7 +252,7 @@
               x="192"
               y="60"
               width="349"
-              height="1153"/>
+              height="1129"/>
           <children
               xsi:type="archimate:DiagramModelArchimateObject"
               id="id-b2e249c554d64a2caad979525989ca1c"
@@ -636,7 +636,7 @@
             <bounds
                 x="13"
                 y="900"
-                width="289"
+                width="293"
                 height="55"/>
             <archimateElement
                 xsi:type="archimate:ApplicationEvent"
@@ -662,9 +662,9 @@
                 source="id-615ca536878549a09caa90695b690d98"
                 target="id-e38ab3d885f54d67b3348e526ab01a91">
               <bendpoints
-                  startX="-432"
+                  startX="-382"
                   startY="-2"
-                  endX="-96"
+                  endX="-108"
                   endY="1632"/>
               <bendpoints
                   startX="-432"
@@ -1224,7 +1224,7 @@
             href="FlowRelationship_id-26a8074494b24a2591ee979cd4eea9d1.xml#id-26a8074494b24a2591ee979cd4eea9d1"/>
       </sourceConnections>
       <bounds
-          x="624"
+          x="612"
           y="23"
           width="217"
           height="97"/>
@@ -1354,5 +1354,29 @@
     <archimateElement
         xsi:type="archimate:BusinessInterface"
         href="BusinessInterface_id-27f576529e6e49a19eeadff14473258c.xml#id-27f576529e6e49a19eeadff14473258c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2f95ca3e2ee84966902ba26d2c5e7c99"
+      fontColor="#0000ff"
+      textAlignment="1"
+      content="LATITUDE: La prueba de vida se realiza al final del proceso. Valorar la conveniencia de realizarla al inicio">
+    <bounds
+        x="1596"
+        y="1632"
+        width="313"
+        height="72"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-98f7776f16b846ed84ed9a2962d7932c"
+      fontColor="#0000ff"
+      textAlignment="1"
+      content="LATITUDE: En la descripción no refiere si para ingresar además de Firma Digital se usará usuario/contraseña, OTP o incluso Biometría, que de momento solamente se utiliza en la prueba de vida antes de finalizar el proceso de formalización del crédito.">
+    <bounds
+        x="1582"
+        y="220"
+        width="305"
+        height="96"/>
   </children>
 </archimate:ArchimateDiagramModel>
