@@ -553,9 +553,9 @@
               </sourceConnections>
               <bounds
                   x="12"
-                  y="96"
+                  y="120"
                   width="147"
-                  height="85"/>
+                  height="49"/>
               <archimateElement
                   xsi:type="archimate:ApplicationEvent"
                   href="ApplicationEvent_id-caed244215fe49baba952e683edb9579.xml#id-caed244215fe49baba952e683edb9579"/>
@@ -579,7 +579,7 @@
                 targetConnections="id-5b2f619387a04cecb4dca0f9d0c0fca7">
               <bounds
                   x="14"
-                  y="36"
+                  y="48"
                   width="144"
                   height="55"/>
               <archimateElement
@@ -662,14 +662,14 @@
                 source="id-615ca536878549a09caa90695b690d98"
                 target="id-e38ab3d885f54d67b3348e526ab01a91">
               <bendpoints
-                  startX="-382"
-                  startY="-2"
-                  endX="-108"
+                  startX="-421"
+                  startY="-3"
+                  endX="-85"
                   endY="1632"/>
               <bendpoints
-                  startX="-432"
-                  startY="-1634"
-                  endX="-96"/>
+                  startX="-421"
+                  startY="-1635"
+                  endX="-85"/>
               <archimateRelationship
                   xsi:type="archimate:FlowRelationship"
                   href="FlowRelationship_id-10f6862d170a48b5a8dbfa383a83d107.xml#id-10f6862d170a48b5a8dbfa383a83d107"/>
@@ -677,7 +677,7 @@
             <bounds
                 x="11"
                 y="972"
-                width="169"
+                width="292"
                 height="55"/>
             <archimateElement
                 xsi:type="archimate:ApplicationEvent"
@@ -969,10 +969,15 @@
         source="id-abdf0399dfb94cb1962c26dab07b99c9"
         target="id-8ac5b4ee55cf4f378e7848a427313e56">
       <bendpoints
+          startX="-120"
+          startY="9"
+          endX="482"
+          endY="-972"/>
+      <bendpoints
           startX="-168"
-          startY="-3"
-          endX="422"
-          endY="-912"/>
+          startY="9"
+          endX="434"
+          endY="-972"/>
       <bendpoints
           startX="-168"
           startY="981"
@@ -1215,10 +1220,15 @@
           source="id-5fabd7a3810546f18657e6847f337209"
           target="id-615ca536878549a09caa90695b690d98">
         <bendpoints
-            startX="-65"
+            startX="-72"
+            startY="642"
+            endX="251"
+            endY="-603"/>
+        <bendpoints
+            startX="-72"
             startY="1242"
-            endX="314"
-            endY="-2"/>
+            endX="251"
+            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-26a8074494b24a2591ee979cd4eea9d1.xml#id-26a8074494b24a2591ee979cd4eea9d1"/>
@@ -1363,9 +1373,9 @@
       content="LATITUDE: La prueba de vida se realiza al final del proceso. Valorar la conveniencia de realizarla al inicio">
     <bounds
         x="1596"
-        y="1632"
+        y="1679"
         width="313"
-        height="72"/>
+        height="49"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
